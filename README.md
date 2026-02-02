@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Cullenia.ai Logo" width="300"/>
+</p>
+
+<h1 align="center">Cullenia.ai</h1>
+
+<p align="center">
+  AI-driven financial statement and stock market analysis platform
+</p>
+
 # Cullenia AI - FastAPI Application
 
 A FastAPI-based Python application for Cullenia AI.
@@ -60,4 +70,17 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 For production deployment, use:
 ```bash
 uvicorn main:app --host 0.0.0.0 --port 8000 --workers 4
+Designed and implemented an AI-driven framework to compare emerging and developed stock markets (CSE vs SGX)
+
+Built end-to-end data pipelines using financial APIs and public company filings
+
+Engineered financial, technical, and volatility-based features for machine learning models
+
+Applied supervised ML models to identify market trends and profitability patterns
+
+Integrated explainable AI (SHAP) to interpret model predictions
+
+Implemented Retrieval-Augmented Generation (RAG) to extract insights from financial documents
+
+Developed interactive dashboards using React for visualization
 ```
