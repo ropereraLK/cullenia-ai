@@ -12,6 +12,11 @@
 
 A FastAPI-based Python application for Cullenia AI.
 
+The diagram below shows the flow of data and components in this research project.
+
+[![Architecture Diagram](assets/architecture-diagram.png)](https://drive.google.com/file/d/1I_th3Wx371kOTH63uCQ00jmPJEnlS3ON/view?usp=sharing)
+
+
 ## Setup
 
 ### Prerequisites
