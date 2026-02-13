@@ -218,5 +218,5 @@ This design ensures scalability, maintainability, and real-world applicability w
 ## RAG Architecture
 
 <p align="Left">
-  <img src="assets/docs/RAG_Suggested_Model.png"/>
+  <img src="../assets/docs/RAG_Suggested_Model.png"/>
 </p>
