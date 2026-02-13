@@ -214,3 +214,9 @@ Cullenia.ai follows these core principles:
 - Production-aligned architecture
 
 This design ensures scalability, maintainability, and real-world applicability without infrastructure complexity.
+
+## RAG Architecture
+
+<p align="center">
+  <img src="assets/docs/RAG_Suggested_Model.png" alt="Cullenia.ai Logo" width="300"/>
+</p>
