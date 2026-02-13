@@ -1,5 +1,5 @@
 # Cullenia.ai
-```
+
 <p align="center">
   <img src="assets/logo.png" alt="Cullenia.ai Logo" width="300"/>
 </p>
@@ -7,7 +7,7 @@
 <p align="center">
   AI-Powered Financial Intelligence Platform
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
