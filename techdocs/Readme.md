@@ -217,6 +217,6 @@ This design ensures scalability, maintainability, and real-world applicability w
 
 ## RAG Architecture
 
-<p align="center">
-  <img src="assets/docs/RAG_Suggested_Model.png" alt="Cullenia.ai Logo" width="300"/>
+<p align="Left">
+  <img src="assets/docs/RAG_Suggested_Model.png"/>
 </p>
