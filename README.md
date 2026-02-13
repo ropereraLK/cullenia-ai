@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  AI-Powered Financial Intelligence Platform
+  AI-Orchestrated Financial Intelligence platform
 </p>
 
 
@@ -13,7 +13,7 @@
 
 ## What Is Cullenia.ai?
 
-Cullenia.ai is an AI-driven financial analysis platform designed to
+Cullenia.ai is an AI-Orchestrated Financial Intelligence platform designed to
 evaluate and compare stock markets using structured data, financial
 reports, and market activity.
 
