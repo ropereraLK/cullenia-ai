@@ -1,4 +1,139 @@
-<p align="center">
+Cullenia.ai
+<p align="center"> <img src="assets/logo.png" alt="Cullenia.ai Logo" width="300"/> </p> <p align="center"> <strong>AI-Powered Financial Intelligence Platform</strong> </p>
+What Is Cullenia.ai?
+
+Cullenia.ai is an AI-driven financial analysis platform designed to evaluate and compare stock markets using structured data, financial reports, and market activity.
+
+The platform focuses on helping users understand:
+
+The estimated fair value of shares
+
+The probability of future performance
+
+Market risk conditions
+
+Differences between emerging and developed markets
+
+The project currently analyzes data from:
+
+Colombo Stock Exchange (CSE)
+
+Singapore Exchange (SGX)
+
+Why This Project Matters
+
+Financial markets produce massive amounts of data, including:
+
+Stock prices
+
+Trading activity
+
+Financial statements
+
+Corporate reports
+
+News and economic updates
+
+Most analysis tools either:
+
+Focus only on price charts, or
+
+Act as black-box prediction systems
+
+Cullenia.ai aims to combine financial fundamentals, market behavior, and artificial intelligence into one transparent and explainable framework.
+
+What the Platform Does
+1. Estimates Share Value
+
+Instead of focusing only on current market price, the system estimates a fair value range based on:
+
+Company financial performance
+
+Profitability indicators
+
+Growth trends
+
+Risk levels
+
+This helps identify whether a share may appear undervalued or overvalued relative to its fundamentals.
+
+2. Estimates Return Probability
+
+The system evaluates the likelihood of a share generating positive returns over a defined time horizon.
+
+It does not guarantee profits.
+Instead, it provides probability-based insights supported by data patterns.
+
+3. Detects Market Risk Signals
+
+Cullenia.ai monitors:
+
+Volatility changes
+
+Liquidity conditions
+
+Order book activity
+
+News sentiment
+
+These signals are combined into a market stress indicator that highlights periods of elevated risk.
+
+4. Analyzes Financial Reports Automatically
+
+Annual and interim financial reports can be analyzed to extract:
+
+Key financial figures
+
+Risk disclosures
+
+Performance summaries
+
+The system connects textual information with numerical data to provide clearer insight.
+
+How It Works (High-Level)
+
+Collects market and financial data
+
+Processes structured and unstructured information
+
+Applies AI models to identify patterns
+
+Generates explainable insights
+
+Visualizes results in a user-friendly format
+
+What This Platform Is Not
+
+Not a trading bot
+
+Not financial advice
+
+Not a guaranteed prediction engine
+
+It is a research-driven decision-support tool designed to improve understanding of market behavior.
+
+Who This Is For
+
+Researchers
+
+Financial analysts
+
+Students
+
+Investors interested in structured evaluation
+
+Anyone exploring AI applications in finance
+
+Vision
+
+The long-term vision of Cullenia.ai is to build a transparent, explainable, and cross-market financial intelligence system that bridges emerging and developed markets using artificial intelligence.
+
+Disclaimer
+
+This project is developed for research and educational purposes.
+It does not provide investment recommendations or financial guarantees.
+
+<!-- <p align="center">
   <img src="assets/logo.png" alt="Cullenia.ai Logo" width="300"/>
 </p>
 
@@ -88,4 +223,4 @@ Integrated explainable AI (SHAP) to interpret model predictions
 Implemented Retrieval-Augmented Generation (RAG) to extract insights from financial documents
 
 Developed interactive dashboards using React for visualization
-```
+``` -->
