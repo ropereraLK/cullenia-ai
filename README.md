@@ -1,136 +1,149 @@
-Cullenia.ai
-<p align="center"> <img src="assets/logo.png" alt="Cullenia.ai Logo" width="300"/> </p> <p align="center"> <strong>AI-Powered Financial Intelligence Platform</strong> </p>
-What Is Cullenia.ai?
+# Cullenia.ai
 
-Cullenia.ai is an AI-driven financial analysis platform designed to evaluate and compare stock markets using structured data, financial reports, and market activity.
+```{=html}
+<p align="center">
+```
+`<strong>`{=html}AI-Powered Financial Intelligence
+Platform`</strong>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## What Is Cullenia.ai?
+
+Cullenia.ai is an AI-driven financial analysis platform designed to
+evaluate and compare stock markets using structured data, financial
+reports, and market activity.
 
 The platform focuses on helping users understand:
 
-The estimated fair value of shares
+-   The estimated fair value of shares\
+-   The probability of future performance\
+-   Market risk conditions\
+-   Differences between emerging and developed markets
 
-The probability of future performance
+The project analyzes data from:
 
-Market risk conditions
+-   Colombo Stock Exchange (CSE)\
+-   Singapore Exchange (SGX)
 
-Differences between emerging and developed markets
+------------------------------------------------------------------------
 
-The project currently analyzes data from:
+## Why This Project Matters
 
-Colombo Stock Exchange (CSE)
+Financial markets produce large volumes of data, including:
 
-Singapore Exchange (SGX)
+-   Stock prices\
+-   Trading activity\
+-   Financial statements\
+-   Corporate reports\
+-   News and economic updates
 
-Why This Project Matters
+Most analysis tools either focus only on price charts or act as
+black-box prediction systems.\
+Cullenia.ai combines financial fundamentals, market behavior, and
+artificial intelligence into one transparent and explainable framework.
 
-Financial markets produce massive amounts of data, including:
+------------------------------------------------------------------------
 
-Stock prices
+## What the Platform Does
 
-Trading activity
+### 1. Estimates Share Value
 
-Financial statements
+The system estimates a fair value range based on:
 
-Corporate reports
+-   Company financial performance\
+-   Profitability indicators\
+-   Growth trends\
+-   Risk levels
 
-News and economic updates
+This helps identify whether a share may appear undervalued or overvalued
+relative to its fundamentals.
 
-Most analysis tools either:
+------------------------------------------------------------------------
 
-Focus only on price charts, or
+### 2. Estimates Return Probability
 
-Act as black-box prediction systems
+The system evaluates the likelihood of a share generating positive
+returns over a defined time horizon.
 
-Cullenia.ai aims to combine financial fundamentals, market behavior, and artificial intelligence into one transparent and explainable framework.
+It does not guarantee profits.\
+Instead, it provides probability-based insights supported by data
+patterns.
 
-What the Platform Does
-1. Estimates Share Value
+------------------------------------------------------------------------
 
-Instead of focusing only on current market price, the system estimates a fair value range based on:
-
-Company financial performance
-
-Profitability indicators
-
-Growth trends
-
-Risk levels
-
-This helps identify whether a share may appear undervalued or overvalued relative to its fundamentals.
-
-2. Estimates Return Probability
-
-The system evaluates the likelihood of a share generating positive returns over a defined time horizon.
-
-It does not guarantee profits.
-Instead, it provides probability-based insights supported by data patterns.
-
-3. Detects Market Risk Signals
+### 3. Detects Market Risk Signals
 
 Cullenia.ai monitors:
 
-Volatility changes
+-   Volatility changes\
+-   Liquidity conditions\
+-   Order book activity\
+-   News sentiment
 
-Liquidity conditions
+These signals are combined into a market stress indicator that
+highlights periods of elevated risk.
 
-Order book activity
+------------------------------------------------------------------------
 
-News sentiment
-
-These signals are combined into a market stress indicator that highlights periods of elevated risk.
-
-4. Analyzes Financial Reports Automatically
+### 4. Analyzes Financial Reports Automatically
 
 Annual and interim financial reports can be analyzed to extract:
 
-Key financial figures
+-   Key financial figures\
+-   Risk disclosures\
+-   Performance summaries
 
-Risk disclosures
+The system connects textual information with numerical data to provide
+clearer insight.
 
-Performance summaries
+------------------------------------------------------------------------
 
-The system connects textual information with numerical data to provide clearer insight.
+## How It Works (High-Level)
 
-How It Works (High-Level)
+1.  Collects market and financial data\
+2.  Processes structured and unstructured information\
+3.  Applies AI models to identify patterns\
+4.  Generates explainable insights\
+5.  Visualizes results in a user-friendly format
 
-Collects market and financial data
+------------------------------------------------------------------------
 
-Processes structured and unstructured information
+## What This Platform Is Not
 
-Applies AI models to identify patterns
+-   Not a trading bot\
+-   Not financial advice\
+-   Not a guaranteed prediction engine
 
-Generates explainable insights
+It is a research-driven decision-support tool designed to improve
+understanding of market behavior.
 
-Visualizes results in a user-friendly format
+------------------------------------------------------------------------
 
-What This Platform Is Not
+## Who This Is For
 
-Not a trading bot
+-   Researchers\
+-   Financial analysts\
+-   Students\
+-   Investors interested in structured evaluation\
+-   Anyone exploring AI applications in finance
 
-Not financial advice
+------------------------------------------------------------------------
 
-Not a guaranteed prediction engine
+## Vision
 
-It is a research-driven decision-support tool designed to improve understanding of market behavior.
+The long-term vision of Cullenia.ai is to build a transparent,
+explainable, and cross-market financial intelligence system that bridges
+emerging and developed markets using artificial intelligence.
 
-Who This Is For
+------------------------------------------------------------------------
 
-Researchers
+## Disclaimer
 
-Financial analysts
-
-Students
-
-Investors interested in structured evaluation
-
-Anyone exploring AI applications in finance
-
-Vision
-
-The long-term vision of Cullenia.ai is to build a transparent, explainable, and cross-market financial intelligence system that bridges emerging and developed markets using artificial intelligence.
-
-Disclaimer
-
-This project is developed for research and educational purposes.
+This project is developed for research and educational purposes.\
 It does not provide investment recommendations or financial guarantees.
 
 <!-- <p align="center">
