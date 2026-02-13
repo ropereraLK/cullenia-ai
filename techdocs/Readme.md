@@ -5,33 +5,33 @@
                     API Requests
                            │
                 ┌──────────▼─────────────┐
-                │      FastAPI Backend    │
+                │      FastAPI Backend   │
                 └──────────┬─────────────┘
                            │
         ┌──────────────────┼──────────────────┐
         │                  │                  │
 ┌───────▼────────┐ ┌──────▼────────┐ ┌───────▼─────────┐
-│ Market Data API │ │ Financial Docs │ │  News & Macro   │
-│ (Finnhub etc.)  │ │ (PDF Upload)   │ │  Data APIs      │
+│ Market Data API │ │ Financial Docs │  News & Macro   │
+│ (Finnhub etc.)  │ │ (PDF Upload)   │  Data APIs      │
 └───────┬────────┘ └──────┬────────┘ └───────┬─────────┘
-        │                  │                  │
-        │                  ▼                  │
+        │                 │                   │
+        │                 ▼                   │
         │        ┌──────────────────┐         │
         │        │ Document Parsing │         │
         │        └────────┬─────────┘         │
-        │                  ▼                  │
+        │                 ▼                   │
         │        ┌──────────────────┐         │
         │        │ Embeddings API   │◄────────┘
         │        └────────┬─────────┘
-        │                  ▼
+        │                 ▼
         │        ┌──────────────────┐
         │        │ Vector Database  │
         │        └────────┬─────────┘
-        │                  ▼
+        │                 ▼
         │        ┌──────────────────┐
         │        │   LLM Reasoning  │
         │        └────────┬─────────┘
-        │                  ▼
+        │                 ▼
         └────────────► Structured Insights
 
 ## 1. Frontend Layer (React)
