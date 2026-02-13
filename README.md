@@ -1,11 +1,11 @@
 # Cullenia.ai
-
-```{=html}
-<p align="center">
 ```
-`<strong>`{=html}AI-Powered Financial Intelligence
-Platform`</strong>`{=html}
-```{=html}
+<p align="center">
+  <img src="assets/logo.png" alt="Cullenia.ai Logo" width="300"/>
+</p>
+
+<p align="center">
+  AI-Powered Financial Intelligence Platform
 </p>
 ```
 
@@ -19,14 +19,14 @@ reports, and market activity.
 
 The platform focuses on helping users understand:
 
--   The estimated fair value of shares\
--   The probability of future performance\
--   Market risk conditions\
+-   The estimated fair value of shares
+-   The probability of future performance
+-   Market risk conditions
 -   Differences between emerging and developed markets
 
 The project analyzes data from:
 
--   Colombo Stock Exchange (CSE)\
+-   Colombo Stock Exchange (CSE)
 -   Singapore Exchange (SGX)
 
 ------------------------------------------------------------------------
@@ -35,16 +35,13 @@ The project analyzes data from:
 
 Financial markets produce large volumes of data, including:
 
--   Stock prices\
--   Trading activity\
--   Financial statements\
--   Corporate reports\
+-   Stock prices
+-   Trading activity
+-   Financial statements
+-   Corporate reports
 -   News and economic updates
 
-Most analysis tools either focus only on price charts or act as
-black-box prediction systems.\
-Cullenia.ai combines financial fundamentals, market behavior, and
-artificial intelligence into one transparent and explainable framework.
+Most analysis tools either focus only on price charts or act as black-box prediction systems. Cullenia.ai combines financial fundamentals, market behavior, and artificial intelligence into one transparent and explainable framework.
 
 ------------------------------------------------------------------------
 
@@ -54,13 +51,12 @@ artificial intelligence into one transparent and explainable framework.
 
 The system estimates a fair value range based on:
 
--   Company financial performance\
--   Profitability indicators\
--   Growth trends\
+-   Company financial performance
+-   Profitability indicators
+-   Growth trends
 -   Risk levels
 
-This helps identify whether a share may appear undervalued or overvalued
-relative to its fundamentals.
+This helps identify whether a share may appear undervalued or overvalued relative to its fundamentals.
 
 ------------------------------------------------------------------------
 
@@ -69,7 +65,7 @@ relative to its fundamentals.
 The system evaluates the likelihood of a share generating positive
 returns over a defined time horizon.
 
-It does not guarantee profits.\
+It does not guarantee profits.
 Instead, it provides probability-based insights supported by data
 patterns.
 
@@ -79,13 +75,12 @@ patterns.
 
 Cullenia.ai monitors:
 
--   Volatility changes\
--   Liquidity conditions\
--   Order book activity\
+-   Volatility changes
+-   Liquidity conditions
+-   Order book activity
 -   News sentiment
 
-These signals are combined into a market stress indicator that
-highlights periods of elevated risk.
+These signals are combined into a market stress indicator that highlights periods of elevated risk.
 
 ------------------------------------------------------------------------
 
@@ -93,42 +88,40 @@ highlights periods of elevated risk.
 
 Annual and interim financial reports can be analyzed to extract:
 
--   Key financial figures\
--   Risk disclosures\
+-   Key financial figures
+-   Risk disclosures
 -   Performance summaries
 
-The system connects textual information with numerical data to provide
-clearer insight.
+The system connects textual information with numerical data to provide clearer insight.
 
 ------------------------------------------------------------------------
 
 ## How It Works (High-Level)
 
-1.  Collects market and financial data\
-2.  Processes structured and unstructured information\
-3.  Applies AI models to identify patterns\
-4.  Generates explainable insights\
+1.  Collects market and financial data
+2.  Processes structured and unstructured information
+3.  Applies AI models to identify patterns
+4.  Generates explainable insights
 5.  Visualizes results in a user-friendly format
 
 ------------------------------------------------------------------------
 
 ## What This Platform Is Not
 
--   Not a trading bot\
--   Not financial advice\
+-   Not a trading bot
+-   Not financial advice
 -   Not a guaranteed prediction engine
 
-It is a research-driven decision-support tool designed to improve
-understanding of market behavior.
+It is a research-driven decision-support tool designed to improve understanding of market behavior.
 
 ------------------------------------------------------------------------
 
 ## Who This Is For
 
--   Researchers\
--   Financial analysts\
--   Students\
--   Investors interested in structured evaluation\
+-   Researchers
+-   Financial analysts
+-   Students
+-   Investors interested in structured evaluation
 -   Anyone exploring AI applications in finance
 
 ------------------------------------------------------------------------
@@ -143,8 +136,9 @@ emerging and developed markets using artificial intelligence.
 
 ## Disclaimer
 
-This project is developed for research and educational purposes.\
+This project is developed for research and educational purposes.
 It does not provide investment recommendations or financial guarantees.
+
 
 <!-- <p align="center">
   <img src="assets/logo.png" alt="Cullenia.ai Logo" width="300"/>
