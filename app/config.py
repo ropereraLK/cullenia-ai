@@ -15,6 +15,7 @@ class Settings(BaseModel):
     port: int
     debug: bool
     reload: bool
+    version: str = "1.0.0"
 
 
 def _config_dir() -> Path:
