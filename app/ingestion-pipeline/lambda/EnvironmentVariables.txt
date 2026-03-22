@@ -1,0 +1,4 @@
+OPENSEARCH_HOST=your-domain.region.es.amazonaws.com
+INDEX_NAME=documents
+BEDROCK_MODEL_ID=amazon.titan-embed-text-v1
+REGION=ap-south-1
